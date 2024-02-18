@@ -1,0 +1,7 @@
+.accordion-button::after {
+    filter: invert(1);
+}
+
+.my-3 {
+    padding-bottom: 20px;
+}
